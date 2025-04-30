@@ -1,3 +1,3 @@
 # Spn_GEM
-This repo stores the source code used in **Systemic construction of a highly-efficient Escherichia coli cell factory for 5-aminolevulinic acid production**.
-Sequentially run `./code/First_round.py` and `./code/Second_round.py`, and the final genetic manipulation targets are listed in `./output/Final_targets.xlsx` with their pathways.
+This repo stores the source code used in **Model-guided rational metabolic engineering strategy for spinosad overproduction in _Saccharopolyspora spinosa_ NHF132**.
+Sequentially run `./code/Simulation.py` , and the final genetic manipulation targets are listed in `./output/targets.xlsx` with their pathways.
